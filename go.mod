@@ -1,4 +1,4 @@
-module github.com/dvynsh-sngh/initia
+module github.com/initia-labs/initia
 
 go 1.23.6
 
